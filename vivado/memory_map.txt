@@ -1,0 +1,20 @@
+######################################################################################
+# This is a generated CSV file representing the addressing in design zub1cg
+#
+# Format:
+# Master Segment Name, Address Space, Slave Segment, Offset, Range ...
+#      Excluded (optional), Included (optional), Unassigned (optional)
+######################################################################################
+
+# 
+# Assignments in Address Space /zynq_ultra_ps_e_0/Data
+#
+SEG_system_management_wiz_0_Reg,/zynq_ultra_ps_e_0/Data,/system_management_wiz_0/S_AXI_LITE/Reg,0xA0000000,64K
+SEG_axi_bram_ctrl_0_Mem0,/zynq_ultra_ps_e_0/Data,/axi_bram_ctrl_0/S_AXI/Mem0,0xA0010000,32K
+SEG_M01_AXI_Reg,/zynq_ultra_ps_e_0/Data,/M01_AXI/Reg,0xA0018000,8K
+SEG_axi_gpio_0_Reg,/zynq_ultra_ps_e_0/Data,/axi_gpio_0/S_AXI/Reg,0xA001A000,8K
+SEG_axi_uartlite_1_Reg,/zynq_ultra_ps_e_0/Data,/axi_uartlite_1/S_AXI/Reg,0xA0020000,64K
+SEG_axi_uartlite_2_Reg,/zynq_ultra_ps_e_0/Data,/axi_uartlite_2/S_AXI/Reg,0xA0030000,64K
+SEG_axi_uartlite_3_Reg,/zynq_ultra_ps_e_0/Data,/axi_uartlite_3/S_AXI/Reg,0xA0040000,64K
+SEG_axi_uartlite_4_Reg,/zynq_ultra_ps_e_0/Data,/axi_uartlite_4/S_AXI/Reg,0xA0050000,64K
+SEG_axi_uartlite_5_Reg,/zynq_ultra_ps_e_0/Data,/axi_uartlite_5/S_AXI/Reg,0xA0060000,64K
